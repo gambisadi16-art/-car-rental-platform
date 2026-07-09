@@ -14,6 +14,7 @@ export const mockCars: Car[] = [
         fuelType: "Electric",
         year: 2023,
         rating: 4.9,
+        locations: [],
         description:
             "Experience the pinnacle of electric luxury. The Tesla Model S combines breathtaking performance with a refined interior and cutting-edge technology.",
         features: [
@@ -38,6 +39,7 @@ export const mockCars: Car[] = [
         fuelType: "Diesel",
         year: 2023,
         rating: 4.8,
+        locations: [],
         description:
             "Commanding presence meets refined capability. The Range Rover Sport delivers luxury and off-road performance in equal measure.",
         features: [
@@ -62,6 +64,7 @@ export const mockCars: Car[] = [
         fuelType: "Petrol",
         year: 2022,
         rating: 4.7,
+        locations: [],
         description:
             "An American icon reborn. The Mustang GT delivers raw, exhilarating performance with a roaring V8 engine and classic muscle car styling.",
         features: [
@@ -86,6 +89,7 @@ export const mockCars: Car[] = [
         fuelType: "Petrol",
         year: 2023,
         rating: 4.6,
+        locations: [],
         description:
             "Smart, efficient, and reliable. The Honda Civic is the perfect city companion offering great fuel economy and a comfortable ride.",
         features: [
@@ -110,6 +114,7 @@ export const mockCars: Car[] = [
         fuelType: "Petrol",
         year: 2023,
         rating: 4.8,
+        locations: [],
         description:
             "The benchmark sports sedan. The BMW 3 Series offers the perfect balance of dynamic driving pleasure and everyday practicality.",
         features: [
@@ -134,6 +139,7 @@ export const mockCars: Car[] = [
         fuelType: "Hybrid",
         year: 2023,
         rating: 4.9,
+        locations: [],
         description:
             "Luxury without compromise. The Mercedes-Benz GLE 450 redefines what a premium SUV can be with its opulent interior and smooth hybrid powertrain.",
         features: [
@@ -158,6 +164,7 @@ export const mockCars: Car[] = [
         fuelType: "Hybrid",
         year: 2023,
         rating: 4.5,
+        locations: [],
         description:
             "Comfort, reliability, and efficiency rolled into one. The Toyota Camry Hybrid is a proven choice for business or leisure travel.",
         features: [
@@ -182,6 +189,7 @@ export const mockCars: Car[] = [
         fuelType: "Petrol",
         year: 2023,
         rating: 5.0,
+        locations: [],
         description:
             "A legend in every sense. The Porsche 911 Carrera delivers an unmatched driving experience with iconic styling and extraordinary performance.",
         features: [

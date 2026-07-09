@@ -4,7 +4,6 @@ import Badge from "../../components/Badge/Badge";
 import CarSpecifications from "./components/CarSpecifications";
 import LoadingSkeleton from "../../components/LoadingSkeleton/LoadingSkeleton";
 import { HiArrowLeft, HiStar } from "react-icons/hi";
-import { useNavigate as useNav } from "react-router-dom";
 import CarCard from "../../components/CarCard/CarCard";
 import SectionTitle from "../../components/SectionTitle/SectionTitle";
 
