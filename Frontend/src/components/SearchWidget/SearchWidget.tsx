@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import { useForm } from "react-hook-form";
+import { useForm } from "../../../node_modules/react-hook-form/dist";
 import { HiCalendar } from "react-icons/hi";
 import { LOCATIONS } from "../../constants/locations";
 
